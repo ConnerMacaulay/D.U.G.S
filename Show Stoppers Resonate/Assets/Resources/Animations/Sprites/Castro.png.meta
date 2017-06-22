@@ -1,0 +1,179 @@
+fileFormatVersion: 2
+guid: bd7dc9ec44cfcb4469c8874daf4fcfea
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Castro_0
+    21300002: Castro_1
+    21300004: Castro_2
+    21300006: Castro_3
+    21300008: Castro_4
+    21300010: Castro_5
+    21300012: Castro_6
+    21300014: Castro_7
+    21300016: Castro_8
+    21300018: Castro_9
+    21300020: Castro_10
+    21300022: Castro_11
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Castro_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 291
+        width: 54
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Castro_1
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 166
+        width: 195
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Castro_2
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 285
+        width: 57
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Castro_3
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 99
+        width: 182
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Castro_4
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 287
+        width: 62
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Castro_5
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 290
+        width: 54
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Castro_6
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 89
+        width: 84
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Castro_7
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 74
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Castro_8
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 95
+        width: 195
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Castro_9
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 20
+        width: 67
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Castro_10
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 13
+        width: 60
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Castro_11
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 20
+        width: 84
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

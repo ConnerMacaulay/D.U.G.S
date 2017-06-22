@@ -1,0 +1,300 @@
+fileFormatVersion: 2
+guid: 791484608a9451f4f8488079adea9943
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Phantom_0
+    21300002: Phantom_1
+    21300004: Phantom_2
+    21300006: Phantom_3
+    21300008: Phantom_4
+    21300010: Phantom_5
+    21300012: Phantom_6
+    21300014: Phantom_7
+    21300016: Phantom_8
+    21300018: Phantom_9
+    21300020: Phantom_10
+    21300022: Phantom_11
+    21300024: Phantom_12
+    21300026: Phantom_13
+    21300028: Phantom_14
+    21300030: Phantom_15
+    21300032: Phantom_16
+    21300034: Phantom_17
+    21300036: Phantom_18
+    21300038: Phantom_19
+    21300040: Phantom_20
+    21300042: Phantom_21
+    21300044: Phantom_22
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Phantom_0
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1230
+        width: 156
+        height: 158
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Phantom_1
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 1211
+        width: 292
+        height: 419
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Phantom_2
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 1217
+        width: 292
+        height: 424
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Phantom_3
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 1217
+        width: 288
+        height: 413
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Phantom_4
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 1211
+        width: 291
+        height: 407
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Phantom_5
+      rect:
+        serializedVersion: 2
+        x: 2038
+        y: 1215
+        width: 288
+        height: 413
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Phantom_6
+      rect:
+        serializedVersion: 2
+        x: 2438
+        y: 1215
+        width: 288
+        height: 417
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Phantom_7
+      rect:
+        serializedVersion: 2
+        x: 2839
+        y: 1215
+        width: 288
+        height: 426
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Phantom_8
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 1217
+        width: 288
+        height: 413
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Phantom_9
+      rect:
+        serializedVersion: 2
+        x: 3638
+        y: 1209
+        width: 288
+        height: 409
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Phantom_10
+      rect:
+        serializedVersion: 2
+        x: 4039
+        y: 1215
+        width: 288
+        height: 415
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Phantom_11
+      rect:
+        serializedVersion: 2
+        x: 4529
+        y: 1211
+        width: 290
+        height: 417
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Phantom_12
+      rect:
+        serializedVersion: 2
+        x: 4537
+        y: 409
+        width: 307
+        height: 419
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Phantom_13
+      rect:
+        serializedVersion: 2
+        x: 3639
+        y: 411
+        width: 307
+        height: 407
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Phantom_14
+      rect:
+        serializedVersion: 2
+        x: 4038
+        y: 414
+        width: 292
+        height: 416
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Phantom_15
+      rect:
+        serializedVersion: 2
+        x: 3239
+        y: 419
+        width: 314
+        height: 411
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Phantom_16
+      rect:
+        serializedVersion: 2
+        x: 2833
+        y: 416
+        width: 331
+        height: 419
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Phantom_17
+      rect:
+        serializedVersion: 2
+        x: 2438
+        y: 411
+        width: 327
+        height: 426
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Phantom_18
+      rect:
+        serializedVersion: 2
+        x: 2036
+        y: 414
+        width: 317
+        height: 414
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Phantom_19
+      rect:
+        serializedVersion: 2
+        x: 1633
+        y: 408
+        width: 306
+        height: 409
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Phantom_20
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 418
+        width: 288
+        height: 415
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Phantom_21
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 415
+        width: 290
+        height: 423
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Phantom_22
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 411
+        width: 290
+        height: 418
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

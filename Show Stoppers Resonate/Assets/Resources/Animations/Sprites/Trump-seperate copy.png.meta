@@ -1,0 +1,113 @@
+fileFormatVersion: 2
+guid: 625ddd89af2adbf448be3e3713ec4a5d
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Trump-seperate copy_0
+    21300002: Trump-seperate copy_1
+    21300004: Trump-seperate copy_2
+    21300006: Trump-seperate copy_3
+    21300008: Trump-seperate copy_4
+    21300010: Trump-seperate copy_5
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Trump-seperate copy_0
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 292
+        width: 66
+        height: 69
+      alignment: 9
+      pivot: {x: .881424904, y: .283375621}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Trump-seperate copy_1
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 246
+        width: 211
+        height: 169
+      alignment: 9
+      pivot: {x: .582024455, y: .0857081637}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Trump-seperate copy_2
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 300
+        width: 62
+        height: 66
+      alignment: 9
+      pivot: {x: .157409668, y: .213931456}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Trump-seperate copy_3
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 237
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Trump-seperate copy_4
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 127
+        width: 64
+        height: 50
+      alignment: 9
+      pivot: {x: .721256495, y: .861876547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Trump-seperate copy_5
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 135
+        width: 58
+        height: 45
+      alignment: 9
+      pivot: {x: .228727669, y: .814675212}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
