@@ -11,6 +11,7 @@ public class BallForce : MonoBehaviour {
 
 	void Start()
 	{
+        rb2D = GetComponent<Rigidbody2D>();
 		ballState = ballStateObj.GetComponent<BallCollisions>();
 		ballStateObj = GameObject.Find ("BallState");
 
