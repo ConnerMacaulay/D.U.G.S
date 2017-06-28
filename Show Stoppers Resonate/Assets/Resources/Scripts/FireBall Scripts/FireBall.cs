@@ -56,6 +56,7 @@ public class FireBall : MonoBehaviour {
 			
 			if (Input.GetButtonDown ("BButton_P1") || Input.GetButtonDown ("BallButton")) 
 			{
+                AudioSource audio = GetComponent<AudioSource>();
 				audio.clip = thro;
 				audio.Play();
 				ballState.lastHad = 1;

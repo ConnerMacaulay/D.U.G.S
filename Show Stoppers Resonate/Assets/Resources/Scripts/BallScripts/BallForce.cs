@@ -5,6 +5,7 @@ public class BallForce : MonoBehaviour {
 
 	public GameObject ballStateObj;
 	public BallCollisions ballState;
+    public Rigidbody2D rb2D;
 	
 	public float fireSpeed = 5000; 
 
@@ -13,6 +14,6 @@ public class BallForce : MonoBehaviour {
 		ballState = ballStateObj.GetComponent<BallCollisions>();
 		ballStateObj = GameObject.Find ("BallState");
 
-		rigidbody2D.AddForce (new Vector2 (fireSpeed, 0));
+		rb2D.AddForce (new Vector2 (fireSpeed, 0));
 	}
 }

@@ -15,7 +15,8 @@ public class Player2 : MonoBehaviour
 	public GameObject hit2;
 	public GameObject World;
 	public WorldSettings worldS;
-	
+
+    public AudioSource audio;
 	public AudioClip jump;
 	public AudioClip hit;
 	public AudioClip collect;
@@ -54,7 +55,9 @@ public class Player2 : MonoBehaviour
 	// Use this for initialization
 	void Start () 
 	{
-		hasBall = false;
+        audio = GetComponent<AudioSource>();
+
+        hasBall = false;
 		
 		fireBallScript = GetComponent<FireBall2>();
 		

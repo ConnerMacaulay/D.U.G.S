@@ -56,7 +56,8 @@ public class FireBall1 : MonoBehaviour {
 			
 			if (Input.GetButtonDown ("BButton_P2") || Input.GetButtonDown ("BallButton")) 
 			{
-				audio.clip = thro;
+                AudioSource audio = GetComponent<AudioSource>();
+                audio.clip = thro;
 				audio.Play();
 				ballState.lastHad = 2;
 				GameObject Ball = Instantiate (prefabManagerScript.Prefabs[0]/*call from array her*/, pos, Quaternion.identity) as GameObject;

@@ -3,6 +3,7 @@ using System.Collections;
 
 public class WorldSettings : MonoBehaviour {
 
+    public AudioSource audio;
 	public AudioClip bell;
 	public AudioClip applause;
 
@@ -20,6 +21,8 @@ public class WorldSettings : MonoBehaviour {
 	// Use this for initialization
 	void Start () 
 	{
+        audio = GetComponent<AudioSource>();
+
 		player = GameObject.Find ("player");
 		p = player.GetComponent<Player>();
 		player1 = GameObject.Find ("player1");

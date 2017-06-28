@@ -110,7 +110,7 @@ public class DynamicCamera : MonoBehaviour {
 		float sizeY = maxYval - minYval + cameraBuffer.y;
 		camSize = (sizeX > sizeY ? sizeX : sizeY);
 
-		camera.orthographicSize = camSize * 0.5f;
+		//camera.orthographicSize = camSize * 0.5f;
 
 	}
 
