@@ -3,26 +3,30 @@ using System.Collections;
 
 public class BallCollisions : MonoBehaviour {
 
-	public bool pickUp;
+   	public bool pickUp;
 	public bool gotBall;
 
 	public int lastHad;
 
 	public GameObject Ball;
+    public int collide;
 
 
-
-	void Start()
+    void Start()
 	{
 		pickUp = false;
 		gotBall = false;
-		//Ball = GameObject.Find ("Ball");
-		print ("hello");
+        collide = 0;
 	}
 
 	void Update()
 	{
-
+        if (collide >= 2)
+        {
+            collide = 0;
+            pickUp = true;
+        }
+        
 		Ball = GameObject.Find ("Ball");
 	}
 }

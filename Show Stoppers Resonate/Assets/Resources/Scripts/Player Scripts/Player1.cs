@@ -28,6 +28,7 @@ public class Player1 : MonoBehaviour
 	
 	public Vector2 myPos;
 	public float facing;
+
 	public bool facingRight;
 	public bool dying;
 	public bool hasBall;
@@ -206,10 +207,12 @@ public class Player1 : MonoBehaviour
 		{
 			audio.clip = collect;
 			audio.Play();
+            Destroy(other.gameObject);
 			hasBall = true;
 			ballState.gotBall = true;
 			ballState.pickUp = false;
-			Destroy(other.gameObject);
+            ballState.collide = 0;
+			
 			return;
 		}
 	}

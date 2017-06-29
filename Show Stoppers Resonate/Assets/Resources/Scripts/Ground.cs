@@ -27,7 +27,7 @@ public class Ground : MonoBehaviour {
 	{
 		if(other.gameObject.tag == "ball")
 		{
-			ballState.pickUp = true;
+			ballState.collide += 1;
 			return;
 		}
 	}
